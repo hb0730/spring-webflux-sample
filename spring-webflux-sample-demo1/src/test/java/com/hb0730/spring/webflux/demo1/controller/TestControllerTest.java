@@ -23,6 +23,9 @@ class TestControllerTest {
     @Autowired
     private WebTestClient webClient;
 
+    /**
+     * 入门
+     */
     @Test
     void helloWebFlux() {
         String result = webClient.get().uri("/test")
@@ -33,6 +36,9 @@ class TestControllerTest {
         System.out.println(result);
     }
 
+    /**
+     * isEqualTo,consumeWith断言
+     */
     @Test
     void hellWebFlux() {
         Boolean body = webClient.get().uri("/test/{type}", 1)
@@ -47,6 +53,9 @@ class TestControllerTest {
         System.out.println(body);
     }
 
+    /**
+     * list
+     */
     @Test
     void list() {
         List<String> result = webClient.post().uri("/test/list")

@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-webflux-sample-demo1</module>
+        <module>spring-webflux-sample-demo2</module>
     </modules>
 
     <parent>
