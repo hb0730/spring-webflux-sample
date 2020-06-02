@@ -4,6 +4,8 @@ spring-webflux-sample
 入门(基于 Annotated Controller)
 # spring-webflux-sample-demo2
 基于函数式编程方式
+# spring-webflux-sample-demo3
+全局统一返回
 
 
 
