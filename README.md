@@ -1,9 +1,9 @@
 # spring-webflux-sample
 spring-webflux-sample
 # spring-webflux-sample-demo1 
-入门
+入门(基于 Annotated Controller)
 # spring-webflux-sample-demo2
-对象类型
+基于函数式编程方式
 
 
 
