@@ -8,6 +8,7 @@
         <module>spring-webflux-sample-demo1</module>
         <module>spring-webflux-sample-demo2</module>
         <module>spring-webflux-sample-demo3</module>
+        <module>spring-webflux-sample-demo4</module>
     </modules>
 
     <parent>
