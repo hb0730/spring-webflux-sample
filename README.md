@@ -9,7 +9,7 @@ spring-webflux-sample
 # spring-webflux-sample-demo4
 全局异常处理
 # spring-webflux-sample-demo5
-Servlet、Filter、Listener
+WebFilter
 # spring-webflux-sample-demo6
 cors跨域
 
