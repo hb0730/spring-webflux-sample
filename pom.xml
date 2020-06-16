@@ -10,6 +10,7 @@
         <module>spring-webflux-sample-demo3</module>
         <module>spring-webflux-sample-demo4</module>
         <module>spring-webflux-sample-demo5</module>
+        <module>spring-webflux-sample-demo6</module>
     </modules>
 
     <parent>

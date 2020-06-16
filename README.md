@@ -11,7 +11,7 @@ spring-webflux-sample
 # spring-webflux-sample-demo5
 WebFilter
 # spring-webflux-sample-demo6
-cors跨域
+cors跨域,三种方式配置
 
 
 # other
